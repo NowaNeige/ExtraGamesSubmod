@@ -5,11 +5,24 @@
 Who wrote Twenty Thousand Leagues Under the Sea?|Jules Verne|Voltaire|Rene Descartes|Victor Hugo
 Who wrote The Art of War?|Sun Tzu|Yasunari Kawabata|Nakagawa|Kenzaburo Oe
 
+#Music
+Who composed the concerti for violins: The Four Seasons?|Vivaldi|Beethoven|Bach|Mozart
+Who's at the origin of the symphonic poem for orchestra named "Danse Macabre"?|Saint-Saens|Debussy|Ravel|Faure
+What kind of instrument is a "Stradivarius"?|Violin|Piano|Guitar|Flute
+
 #Philosophy
 Cogito Ergo Sum is an expression of wich philosopher?|Rene Descartes|Jean-Paul Sartre|Montesquieu|Voltaire
+Which famous English utilitarian is also known for his work on the Panopticon?|Bentham|Singer|Kant|Rawls
 
 #Geo and History
 How many states are there in the United States?|50|52|48|51
 Which is the only country that does not have a rectangular flag?|Nepal|Botswana|Vatican|El Salvador
 What is the capital of Canada?|Ottawa|Torronto|Montreal|Vancouver
 What is the largest desert in the world?|Antartic Desert|Artic Desert|Sahara Desert|Arabic Desert
+In what year did the Titanic accident occur?|1912|1913|1911|1910
+
+#Animal World
+Which animal named Vulpes Zerda is also commonly considered the emblem of Algeria?|Fennec|Red Fox|Kit Fox|Corsac Fox
+
+#Architecture
+What architectural style emerged in the second half of the 12th century and spread throughout Europe until the early 15th century?|Gothic|Baroque|Romanesque|Modern
