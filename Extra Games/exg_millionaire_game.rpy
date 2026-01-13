@@ -155,8 +155,6 @@ label millionaire_game:
     $ refreshTime = False
     $ helpmequestion = False
     $ questionlist = list(normal_questionlist)
-    $ questionlisthard = list(hard_questionlist)
-    $ questionlistfinal = list(million_questionlist)
     call mas_millionaire_game_loop
     return
 
@@ -212,12 +210,12 @@ label millionaire_setup_question:
     
             if questionnumber > 14:
                 musicpak = 3
-                curquestion = random.choice(questionlistfinal)
-                questionlistfinal.remove(curquestion)
+                curquestion = random.choice(questionlist)
+                questionlist.remove(curquestion)
             elif questionnumber < 15 and questionnumber > 10:
                 musicpak = 2
-                curquestion = random.choice(questionlisthard)
-                questionlisthard.remove(curquestion)
+                curquestion = random.choice(questionlist)
+                questionlist.remove(curquestion)
             else:
                 musicpak = 1
                 curquestion = random.choice(questionlist)
